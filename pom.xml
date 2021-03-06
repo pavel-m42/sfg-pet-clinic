@@ -5,7 +5,7 @@
 
 	<groupId>pavel.springframework</groupId>
 	<artifactId>sfg-pet-clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>sfg-pet-clinic</name>
 	<description>SFG Pet Clinic</description>
 	<properties>
@@ -52,6 +52,6 @@
 	</build>
 	<scm>
 		<developerConnection>scm:git:https://github.com/pavel-m42/sfg-pet-clinic.git</developerConnection>
-	  <tag>0.0.1</tag>
+	  <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 </project>
